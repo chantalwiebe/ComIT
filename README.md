@@ -1,8 +1,9 @@
-# ComIT
-##ComIT PROJECTS and HOMEWORK
+#ComIT#
+##ComIT PROJECTS and HOMEWORK##
 
 
-###**June 4th, 2018**
+###**June 4th, 2018**###
+
 Research about Information Technology:
 
 Information Technology is the use of computers to store, retrieve, transmit, and manipulate data, or information, often in the context of a business or other enterprise. IT is considered to be a subset of information and communications technology (ICT).
@@ -27,9 +28,15 @@ The information technology profession is extremely diverse: IT workers can speci
 
 **Common IT careers:**
 __Chief Technology Officer__: This person sets all technology goals and policies within an organization.
+
 __IT Director__: This person is responsible for the function of all of the business's technology tools and processes. This role is commonly called IT manager or IT leader.
+
 __Systems Administrator__: This person configures, manages, supports and troubleshoots a multi-user computing environment. Within an enterprise, this role can be segmented by technology, requiring an administrator or team dedicated to server, desktop, network, virtualization or other components.
+
 __Application Manager__: This person's role centers on the provisioning and management of a high-value business application, such as Exchange.
+
 __Developer__: This person or team writes, updates and tests code for programs to meet business objectives internally or facing customers.
+
 __Architect__: This person examines and changes IT functions to best support the business.
+
 
