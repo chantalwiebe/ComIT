@@ -1,2 +1,2 @@
 # ComIT
-ComIT projects and homework
+ComIT PROJECTS and HOMEWORK
