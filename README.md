@@ -1,8 +1,8 @@
-#ComIT#
+# ComIT
 
-##ComIT PROJECTS and HOMEWORK##
+## ComIT PROJECTS and HOMEWORK
 
-**June 4th, 2018**
+### **June 4th, 2018**
 
 Research about Information Technology:
 
