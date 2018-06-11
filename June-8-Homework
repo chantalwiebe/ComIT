@@ -1,0 +1,38 @@
+**June 8, 2018 Homework**
+
+1) Build the truth tables for the following prepositional forms.
+
+1. ~q v (p ^ q)
+
+| q | ~q | p | q | p ^ q | q v (p ^ q) | ~ |
+|---|----|---|---|--------|-------------|---|
+
+
+
+2. ~p -> q
+
+3. p ^ q ↔  q ^ p
+
+4. p -> q ↔ q -> p
+
+5. a ^ (b v ~a)
+
+
+2) Interpret the previous prepositional forms.
+
+
+3) Build the truth tables for the following prepositional forms
+
+
+p -> (q -> r)
+
+(p ^ q) -> r
+
+
+4) Build the truth tables for the following prepositional forms
+
+(p -> q) ^ (q -> r)
+
+( p -> q ) -> r
+
+p -> ( q -> r )
