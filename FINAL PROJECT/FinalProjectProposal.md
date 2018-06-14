@@ -11,6 +11,7 @@ Text-based Survival Game.
 - Text-based, SVG graphics, HTML5, CSS3 and Javascript for the Front-End
 - Java for the Back-End (database for inventory, items and hero/enemy stats)
 - Static images for things happening. (pick up items, run into enemy)
+- Scoreboard for Top !0 tries
 
 ## Secondary Goals: 
 - Fully functional maps (first overlooking map, then possible room maps)
